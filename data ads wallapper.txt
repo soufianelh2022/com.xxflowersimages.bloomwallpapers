@@ -3,7 +3,7 @@
    
 
      "ShowAds": true,
-     "ClickCount": 1,
+     "ClickCount": 5,
      "ShowLoadingAds": true,
 
    
@@ -19,10 +19,10 @@
     "openadyandex":"demo-appopenad-yandex",
 
     
-    "priorityInterstitial": "yandex",
-    "PriorityBanner": "yandex",
+    "priorityInterstitial": "ironsource",
+    "PriorityBanner": "ironsource",
     "PriorityReward": "yandex",
-    "PriorityNative": "yandex"
+    "PriorityNative": "ironsource"
 
 
     
