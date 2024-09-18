@@ -1,0 +1,37 @@
+{
+  "ads": {
+   
+
+     "ShowAds": true,
+     "ClickCount": 1,
+     "ShowLoadingAds": true,
+
+   
+    "IronAppKey": "147d445d9",
+    "IronBanner": "DefaultBanner",
+    "IronInterstitial": "DefaultInterstitial",
+    "ironsource_reward":"DefaultReward",
+
+     "yandex_banner": "demo-banner-yandex",
+     "yandex_inter": "demo-interstitial-yandex",
+     "yandex_native": "demo-native-app-yandex",
+    "yandex_reward":"demo-rewarded-yandex",
+    "openadyandex":"demo-appopenad-yandex",
+
+    
+    "priorityInterstitial": "yandex",
+    "PriorityBanner": "yandex",
+    "PriorityReward": "yandex",
+    "PriorityNative": "yandex"
+
+
+    
+    
+   
+    
+   
+    
+    
+    
+  }
+}
