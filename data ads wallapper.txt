@@ -19,10 +19,10 @@
     "openadyandex":"demo-appopenad-yandex",
 
     
-    "priorityInterstitial": "ironsource",
-    "PriorityBanner": "ironsource",
-    "PriorityReward": "yandex",
-    "PriorityNative": "ironsource"
+    "priorityInterstitial": "iron",
+    "PriorityBanner": "iron",
+    "PriorityReward": "Iron",
+    "PriorityNative": "iron"
 
 
     
